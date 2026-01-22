@@ -1,0 +1,5 @@
+qdrant-client>=1.10.0
+torch
+transformers
+pillow
+requests
